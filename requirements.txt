@@ -1,0 +1,13 @@
+# production requirements
+python3.7
+pandas==0.25.0
+numpy==1.17.3
+scikit-learn==0.21.3
+tensorflow==1.14.0
+Keras==2.2.4
+pickle==4.0
+pyaudio
+webrtcvad
+flask
+boto3
+sox
